@@ -31,21 +31,22 @@ This project is designed to act as a digital visiting card where users can showc
 
 QuickConnect/
 │
-├── index.html
-├── mypic.jpg
-├── instagram-logo.png
-├── facebook-logo.png
-├── snapchat-logo.png
-├── linkedin-logo.png
-├── github-logo.png
-└── README.md
+├── index.html            
+├── style.css              
+├── script.js              
+├── mypic.jpg             
+├── instagram-logo.png     
+├── facebook-logo.png      
+├── snapchat-logo.png      
+├── linkedin-logo.png      
+├── github-logo.png        
+├── README.md    
+
 ---
 
 ## 🚀 Live Demo
 
-🔗 Website: https://ruthikasri.github.io/your-repo-name/
-
-(Replace `your-repo-name` with your actual GitHub repository name)
+🔗 https://ruthikasri.github.io/quickconnect-web/
 
 ---
 
