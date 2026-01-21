@@ -30,7 +30,7 @@ This project is designed to act as a digital visiting card where users can showc
 ## 📂 Project Structure
 
 QuickConnect/
-│
+│|
 ├── index.html            
 ├── style.css              
 ├── script.js              
@@ -40,7 +40,7 @@ QuickConnect/
 ├── snapchat-logo.png      
 ├── linkedin-logo.png      
 ├── github-logo.png        
-├── README.md    
+ ── README.md    
 
 ---
 
